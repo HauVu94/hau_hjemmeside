@@ -15,10 +15,12 @@ const HovedSide = () => {
       </div>
       <div className=" pt-8 pb-8 xl:col-span-2">
         <h1 className="text-3xl text-left">
-          Hei, velkommen mitt navn er Hau Duc Vu
+          Hei velkommen! Jeg heter Hau Duc Vu
         </h1>
         <div className="mt-2 text-left pl-4 xl:col-span-2"></div>
         <p>
+          <br />
+          Jeg er 29år gammel gutt fra Kristiansand og er bosatt i Oslo.
           <br />
           Jeg er IT student ved Høyskolen Kristiania, jeg blir ferdig med IT
           utdanningen min sommer 2024.
