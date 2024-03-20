@@ -3,44 +3,45 @@ import Image from "next/image";
 
 const HovedSide = () => {
   return (
-    <div className="text-centerq items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0 pt-20">
-      <div className="flex flex-col items-center pl-52 space-x-2 pt-8 pb-8">
-        <Image
-          src={"/Hulk.jpg"}
-          alt="hau"
-          width={200}
-          height={200}
-          className="rounded-2xl"
-        />
+    <div className="text-center items-start space-y-2 md:flex md:flex-col md:items-center lg:grid lg:grid-cols-3 lg:gap-x-8 lg:space-y-0 pt-20">
+      <div className="flex flex-col items-center pl-52 space-x-2 pt-4 pb-10">
+        <div className="w-48 h-48">
+          <Image
+            src={"/Hulk.jpg"}
+            alt="hau"
+            width={200}
+            height={200}
+            className="rounded-2xl"
+          />
+        </div>
       </div>
-      <div className=" pt-8 pb-8 xl:col-span-2">
-        <h1 className="text-3xl text-left">
-          Hei velkommen! Jeg heter Hau Duc Vu
-        </h1>
-        <div className="mt-2 text-left pl-4 xl:col-span-2"></div>
-        <p>
+      <div className=" pt-8 pb-8 xl:col-span-2 text-left">
+        <h1 className="text-3xl">Hei, Velkommen </h1>
+        <h3 className="text-xl">
           <br />
-          Jeg er 29år gammel gutt fra Kristiansand og er bosatt i Oslo.
-          <br />
-          Jeg er IT student ved Høyskolen Kristiania, jeg blir ferdig med IT
-          utdanningen min sommer 2024.
-          <br /> Visste du at jeg er tidligere er utdannet optiker med rett til
-          rekvivering av diagnostikse medikamenter.
-          <br />
-        </p>
-        <p>
-          <br />
-          Jeg har jobbet som optiker i ca. 8 år, men i 2021 fant jeg ut at jeg
-          ville prøve ut noe nytt og utfordre meg selv,
-          <br /> derfor søkte jeg på studie på Høyeskolen Kristiana. Jeg har
-          siden studie start jobbet som optiker ved sidna. <br />
-          Januar 2024 startet jeg som utvikler hos ECO STOR med mine med
-          studenter.
-          <br /> Vi skal her hjelpe ECO STOR med å lage en brukergrensesnitt for
-          sine kunder. Her skal vi være ut bachelortiden og ut sommer 2024.{" "}
-          <br />
-          <br />
-        </p>
+          Mitt navn er Hau Duc Vu
+        </h3>
+        <div className="">
+          <p>
+            IT student ved Høyskolen Kristiania, og blir uteksaminert våren
+            2024. Jeg er 29 år fra Kristiansand og er bosatt i Oslo.
+          </p>
+          <p>
+            Visste du at jeg er tidligere er utdannet optiker med rett til
+            rekvivering av diagnostikse medikamenter?
+            <br /> Jeg har jobbet som optiker i åtte år, men i 2021 fant jeg ut
+            at jeg ville prøve ut noe nytt og utfordre meg selv,
+            <br /> ved å studere IT på Høyskolen Kristiana. Jeg har kombinert
+            optiker jobb med IT studier de siste tre årene.
+            <br />
+            I januar 2024 startet jeg som utvikler hos ECO STOR med mine
+            medstudenter.
+            <br /> Vi skal her hjelpe ECO STOR med å lage et brukergrensesnitt
+            for sine kunder, som en del av vårt bachelorprosjekt.
+            <br />
+            <br />
+          </p>
+        </div>
         <p className="font-bold">
           Jeg søker etter utvikler jobb og er klar fra august 2024. <br />
           Håper vi snakkes.

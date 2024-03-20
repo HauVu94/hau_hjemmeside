@@ -5,9 +5,7 @@ import Oppdrag from "@/components/oppdrag";
 export default function Home() {
   return (
     <>
-      <main>
-        <HovedSide />
-      </main>
+      <HovedSide />
       <Oppdrag />
       <Footer />
     </>

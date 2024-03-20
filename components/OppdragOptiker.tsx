@@ -43,7 +43,7 @@ const OppdragOptiker = () => {
             src="/Specsavers.png"
             alt="Specsavers"
             height={100}
-            width={300}
+            width={250}
             className="object-contain"
           />
         </div>
@@ -62,7 +62,7 @@ const OppdragOptiker = () => {
             src="/OptoTeam.png"
             alt="Optoteam"
             height={100}
-            width={350}
+            width={300}
             className="object-contain"
           />
         </div>

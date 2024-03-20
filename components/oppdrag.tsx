@@ -13,7 +13,7 @@ const Oppdrag = () => {
 
   return (
     <div className="max-container padding-container relative">
-      <nav className="flex h-full gap-6 lg:flex items-center justify-center font-bold">
+      <nav className="flex flex-col lg:flex-row gap-6 lg:items-center lg:justify-center font-bold">
         <p className="font-normal">Oppdragsgiver: </p>
         {NAV_LINKS.map(({ key, label }) => (
           <button key={key} onClick={() => handleOppdragSelect(key)}>
