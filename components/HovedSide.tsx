@@ -16,11 +16,8 @@ const HovedSide = () => {
         </div>
       </div>
       <div className=" pt-8 pb-8 xl:col-span-2 text-left">
-        <h1 className="text-3xl">Hei og velkommen </h1>
-        <h3 className="text-xl">
-          <br />
-          Mitt navn er Hau Duc Vu
-        </h3>
+        <h4> Hei, jeg er </h4>
+        <h1 className="font-bold text-3xl">Hau Duc Vu</h1>
         <div className="">
           <p>
             <br />
@@ -33,12 +30,12 @@ const HovedSide = () => {
             <br /> Jeg har jobbet som optiker i åtte år. I 2021 fant jeg ut at
             jeg ville prøve ut noe nytt og utfordre meg selv,
             <br /> ved å studere IT på Høyskolen Kristiana. Jeg har kombinert
-            optiker yrket med IT studier de siste tre årene.
+            optiker yrke med IT studier de siste tre årene.
             <br />
             I januar 2024 startet jeg som utvikler hos ECO STOR med mine
-            medstudenter.
-            <br /> Vi skal her hjelpe ECO STOR med å lage et brukergrensesnitt
-            for sine kunder, som en del av vårt bachelorprosjekt.
+            medstudenter. Vi skal her hjelpe ECO STOR <br />
+            med å lage et brukergrensesnitt for sine kunder, som en del av vårt
+            bachelorprosjekt.
             <br />
             <br />
           </p>
