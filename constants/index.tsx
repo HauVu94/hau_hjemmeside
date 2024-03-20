@@ -13,12 +13,13 @@ export const FOOTER_CONTACT_INFO = {
 };
 
 export const SOCIALS = {
-  title: "Social",
+  title: "Social media",
   links: [
-    { url: "https://www.instagram.com/hauvu94/", icon: "/instagram.svg" },
+    { url: "https://www.instagram.com/hauvu94", icon: "/insta.png" },
     {
       url: "https://www.linkedin.com/in/hau-duc-vu-712021152",
-      icon: "/linkedin.png",
+      icon: "/linked.png",
     },
+    { url: "https://github.com/HauVu94", icon: "/github.png" },
   ],
 };
