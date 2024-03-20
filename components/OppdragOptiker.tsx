@@ -5,7 +5,7 @@ const OppdragOptiker = () => {
   return (
     <>
       <div className="py-6 pb-10 pt-10">
-        <h2 className="text-center text-3xl pb-2">
+        <h2 className="text-center text-3xl pb-2 font-bold">
           Firma jeg har jobbet hos som optiker
         </h2>
       </div>
