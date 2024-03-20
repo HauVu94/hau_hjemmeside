@@ -5,8 +5,8 @@ const OppdragOptiker = () => {
   return (
     <>
       <div className="py-6 pb-10 pt-10">
-        <h2 className="text-center text-4xl pb-2">
-          Firma/Organisasjoner jeg har jobbet med som optiker
+        <h2 className="text-center text-3xl pb-2">
+          Firma jeg har jobbet hos som optiker
         </h2>
       </div>
       <div className="grid pl-20 items-center justify-center gap-10 text-center md:grid-cols-2 lg:grid-cols-3 pb-10">

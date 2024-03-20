@@ -16,23 +16,24 @@ const HovedSide = () => {
         </div>
       </div>
       <div className=" pt-8 pb-8 xl:col-span-2 text-left">
-        <h1 className="text-3xl">Hei, Velkommen </h1>
+        <h1 className="text-3xl">Hei og velkommen </h1>
         <h3 className="text-xl">
           <br />
           Mitt navn er Hau Duc Vu
         </h3>
         <div className="">
           <p>
+            <br />
             IT student ved Høyskolen Kristiania, og blir uteksaminert våren
             2024. Jeg er 29 år fra Kristiansand og er bosatt i Oslo.
           </p>
           <p>
             Visste du at jeg er tidligere er utdannet optiker med rett til
             rekvivering av diagnostikse medikamenter?
-            <br /> Jeg har jobbet som optiker i åtte år, men i 2021 fant jeg ut
-            at jeg ville prøve ut noe nytt og utfordre meg selv,
+            <br /> Jeg har jobbet som optiker i åtte år. I 2021 fant jeg ut at
+            jeg ville prøve ut noe nytt og utfordre meg selv,
             <br /> ved å studere IT på Høyskolen Kristiana. Jeg har kombinert
-            optiker jobb med IT studier de siste tre årene.
+            optiker yrket med IT studier de siste tre årene.
             <br />
             I januar 2024 startet jeg som utvikler hos ECO STOR med mine
             medstudenter.
