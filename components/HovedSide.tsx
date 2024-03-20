@@ -14,7 +14,9 @@ const HovedSide = () => {
         />
       </div>
       <div className=" pt-8 pb-8 xl:col-span-2">
-        <h1 className="text-3xl text-left">Hei, velkommen til Hau Duc Vu</h1>
+        <h1 className="text-3xl text-left">
+          Hei, velkommen mitt navn er Hau Duc Vu
+        </h1>
         <div className="mt-2 text-left pl-4 xl:col-span-2"></div>
         <p>
           <br />
