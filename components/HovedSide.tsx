@@ -29,7 +29,7 @@ const HovedSide = () => {
             rekvivering av diagnostikse medikamenter?
             <br /> Jeg har jobbet som optiker i åtte år. I 2021 fant jeg ut at
             jeg ville prøve ut noe nytt og utfordre meg selv,
-            <br /> ved å studere IT på Høyskolen Kristiana. Jeg har kombinert
+            <br /> ved å studere IT på Høyskolen Kristiania. Jeg har kombinert
             optiker yrke med IT studier de siste tre årene.
             <br />
             I januar 2024 startet jeg som utvikler hos ECO STOR med mine
