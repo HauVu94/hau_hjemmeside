@@ -15,14 +15,18 @@ const Oppdrag = () => {
     <div className="max-container padding-container relative">
       <nav className="flex flex-col lg:flex-row gap-6 lg:items-center lg:justify-center font-bold">
         <p className="font-normal">Oppdragsgiver: </p>
-        {NAV_LINKS.map(({ key, label }) => (
-          <button key={key} onClick={() => handleOppdragSelect(key)}>
-            {label}
-          </button>
-        ))}
+        <div className="flex flex-col lg:flex-row gap-6 underline">
+          {NAV_LINKS.map(({ key, label }) => (
+            <button key={key} onClick={() => handleOppdragSelect(key)}>
+              {label}
+            </button>
+          ))}
+        </div>
       </nav>
-      {selectedOppdrag === "IT" && <OppdragIT />}
-      {selectedOppdrag === "Optiker" && <OppdragOptiker />}
+      <div>
+        {selectedOppdrag === "IT" && <OppdragIT />}
+        {selectedOppdrag === "Optiker" && <OppdragOptiker />}
+      </div>
     </div>
   );
 };
