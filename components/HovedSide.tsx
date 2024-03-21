@@ -26,7 +26,7 @@ const HovedSide = () => {
           </p>
           <p>
             Visste du at jeg er tidligere er utdannet optiker med rett til
-            rekvivering av diagnostikse medikamenter?
+            rekvirering av diagnostiske medikamenter?
             <br /> Jeg har jobbet som optiker i åtte år. I 2021 fant jeg ut at
             jeg ville prøve ut noe nytt og utfordre meg selv,
             <br /> ved å studere IT på Høyskolen Kristiania. Jeg har kombinert
