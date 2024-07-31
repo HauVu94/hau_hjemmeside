@@ -4,6 +4,15 @@ export const NAV_LINKS = [
   { href: "/", key: "Optiker", label: "Optiker" },
 ];
 
+export const NAV_BAR = [
+  { href: "/", key: "Hjem", label: "Hjem" },
+  {
+    href: "/certification",
+    key: "IT Sertifisering",
+    label: "IT Sertifisering",
+  },
+];
+
 export const FOOTER_CONTACT_INFO = {
   title: "Kontakt Meg",
   links: [
