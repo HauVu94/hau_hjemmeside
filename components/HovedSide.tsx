@@ -21,8 +21,8 @@ const HovedSide = () => {
         <div className="">
           <p>
             <br />
-            IT student ved Høyskolen Kristiania, og blir uteksaminert våren
-            2024. Jeg er 29 år fra Kristiansand og er bosatt i Oslo.
+            Jeg er 30 år fra Kristiansand og er bosatt i Oslo.Jeg ble
+            uteksaminert våren 2024 fra IT studiet ved Høyskolen Kristiania.
           </p>
           <p>
             Visste du at jeg er tidligere er utdannet optiker med rett til
@@ -37,10 +37,12 @@ const HovedSide = () => {
             med å lage et brukergrensesnitt for sine kunder, som en del av vårt
             bachelorprosjekt.
             <br />
+            Jeg har i dag internship hos ECO STOR og skal jobbe som junior
+            utvikler hos ECO STOR etter endt studie frem til august 2024.
             <br />
           </p>
         </div>
-        <p className="font-bold">
+        <p className="font-bold mt-4">
           Jeg søker etter utvikler jobb og er klar fra august 2024. <br />
           Håper vi snakkes.
         </p>
