@@ -37,8 +37,10 @@ const HovedSide = () => {
             med å lage et brukergrensesnitt for sine kunder, som en del av vårt
             bachelorprosjekt.
             <br />
-            Jeg har i dag internship hos ECO STOR og skal jobbe som junior
-            utvikler hos ECO STOR etter endt studie frem til august 2024.
+            Jeg har nylig fullført mitt internship hos ECO STOR som
+            juniorutvikler. For tiden jobber jeg som konsulentoptiker hos
+            Optoteam, samtidig som jeg aktivt søker nye muligheter innen
+            utvikling.
             <br />
           </p>
         </div>
