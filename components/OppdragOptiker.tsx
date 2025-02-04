@@ -84,6 +84,15 @@ const OppdragOptiker = () => {
             className="object-contain"
           />
         </div>
+        <div>
+          <Image
+            src="/alliance.png"
+            alt="alliance"
+            height={100}
+            width={300}
+            className="object-contain"
+          />
+        </div>
       </div>
     </>
   );
